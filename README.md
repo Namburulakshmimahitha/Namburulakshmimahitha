@@ -8,35 +8,32 @@
 
 ## 🚀 Skills
 
-- *Languages:* Java, C, HTML, CSS
-- *Frameworks & Libraries:* Spring Boot, React.js, Node.js, Express.js (MERN Stack), Django
-- *Databases:* MySQL, MongoDB, PostgreSQL
-- *Cloud & Networking:* Basics of JUNOS OS, Cloud Storage Services
+Programming Languages: Java, Python, C
+Web Technologies: HTML, CSS, JavaScript, Flask
+Frameworks/Tools: Spring Boot, Git, MySQL, VS Code
+Concepts: OOPs, Data Structures & Algorithms, REST APIs, Database Management
+Version Control: Git & GitHub
 
 ---
 
 ## 💻 Projects
 
-- *[Testify – Online Exam Portal](#)*  
-  Built an exam platform to automate assessments and performance tracking.  
-  Tools: Spring Boot, MySQL
+1. Online Exam Portal (Java, MySQL, JSP/Servlets)
+Developed and deployed a secure web-based exam system with user authentication, randomized questions, automated evaluation, and efficient database management.
+Key Skills: Java, JDBC, MySQL, JSP, HTML, CSS
 
-- *[Ekotpad – Culture Promotion Website](https://ekotpad288.netlify.app/)*  
+2. Smart Parking System (Python, IoT Integration)
+Developed a Python-based IoT parking system  for real-time slot monitoring, sensor simulation, and live update alerts.
+Key Skills: Python, Flask, REST APIs, IoT, Database Management
+
+3. Student Management System (Java Swing + MySQL)    
+Designed a desktop-based CRUD application for managing student records.Integrated data storage, retrieval, and search functionalities with JDBC.
+Key Skills: Java, Swing, MySQL, OOP
+
+4. [Ekotpad – Culture Promotion Website](https://ekotpad288.netlify.app/)*  
   Selected at University level for Smart India Hackathon (SIH).  
   Tools: React.js, Node.js, Express.js, MongoDB
 
-- *ProMaster – Project Management System*  
-  A platform to assist users with managing project specifications and deliverables.  
-  Tools: Django, PostgreSQL
-
----
-
-## 📜 Certifications
-
-- *Red Hat Certified Enterprise Application Developer*  
-  [Verify Here](https://bit.ly/mahitha-redhat)
-
----
 
 ## 🔬 Research
 
